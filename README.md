@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lakshikuga
 - 👀 I’m interested in JAVA, DART, Python, JS, NodeJS, UI Dev and writing tech articles on JAVA
-- 🌱 I’m currently learning 
-        - [] DART
-        - [] NodeJS
-        - [] Typescript
+- 🌱 I’m currently learning  <br />
+        &emsp;&emsp;:white_check_mark: DART <br />
+        &emsp;&emsp;:white_check_mark: NodeJS <br />
+        &emsp;&emsp;:white_check_mark: Typescript
 - 💞️ I’m looking to collaborate on JAVA, DART and NodeJS Projects
 - 📫 How to reach me on Linkedin - https://www.linkedin.com/in/lakshini-kuganandamurthy-597314173/ 
 
