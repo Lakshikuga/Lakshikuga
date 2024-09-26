@@ -1,4 +1,4 @@
-- Hi there👋, I’m @Lakshikuga
+- Hi there👋 I’m @Lakshikuga
 - 👀 I’m interested in JAVA, DART, Python, JS, NodeJS, UI Dev and writing tech articles on JAVA
 - 🌱 I’m currently learning  <br />
         ✅ DART <br />
